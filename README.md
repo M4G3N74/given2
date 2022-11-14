@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-[Live Portfolio Website](https://www.nikolay.tech/)
+[Live Portfolio Website](https://malambogiven.vercel.app/)
 
 ## Get started
 
