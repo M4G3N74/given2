@@ -58,7 +58,7 @@ const Technologies = () =>  (
           <ListTitle>Arch Linux</ListTitle>
           <ListParagraph>
             As my daily driver distro<br/>
-            Arch is by far the best distro to use
+            Arch is by far the best distro out there
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -79,8 +79,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Try Hack Me</ListTitle>
           <ListParagraph>
-            Did i mention that am one <br/>
-            the best at what i do? check the leaderboards(Zambia)
+            Did i mention that am one  <br/>
+            of the best at what i do? check the leaderboards(Zambia)
           </ListParagraph>
         </ListContainer>
       </ListItem>
