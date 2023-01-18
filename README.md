@@ -18,4 +18,4 @@ npm i && npm run dev
 
 ## I'm Given Malambo
 
--A Full Stack Develop Using ReactJS
+-A Full Stack Developer Using ReactJS
