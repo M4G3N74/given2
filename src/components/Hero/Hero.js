@@ -9,10 +9,11 @@ const Hero = () => (
     <LeftSection>
       <SectionTitle main center>
       Hi there, I'm <br />
-      Given Malambo
+      Given Malambo <br />
+      @M4G3N74
       </SectionTitle>
       <SectionText>
-      A software engineer and An Ethical Penetester
+      A software engineer and Red Teamer(Ethical Hacker)
       </SectionText>
       <Button onClick={() => window.location = "#about"}>Learn More</Button>
     </LeftSection>

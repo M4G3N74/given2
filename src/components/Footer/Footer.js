@@ -20,6 +20,7 @@ const Footer = () => {
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>Building morden web apps for future generations</Slogan>
+          <Slogan>Create awareness through Ethical Hacking</Slogan>
         </CompanyContainer>
       </SocialIconsContainer>
     </FooterWrapper>
